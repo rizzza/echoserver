@@ -1,0 +1,14 @@
+.git
+.gitignore
+.github/
+.git
+.dockerignore
+Dockerfile
+README.md
+**/*.xml
+**/*.coverprofile
+go-build-caches/
+kubernetes/
+scripts/
+terraform/
+_tools/

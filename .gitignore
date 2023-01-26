@@ -1,0 +1,11 @@
+*.swp
+*.swo
+_tools/*
+**/main
+dist/
+
+# junit/xml
+**/*.xml
+
+# go cover
+coverage.out

@@ -1,0 +1,7 @@
+services:
+  echoserver:
+    build: .
+    volumes:
+      - .:/go/src/github.com/rizzza/echoserver
+    ports:
+      - "8081:8081"
